@@ -1,0 +1,91 @@
+body{
+    font-family: 'Roboto',sans-serif;
+    margin:0;
+    background:#f5f5f5;
+}
+
+header{
+    background:#6cc46e;
+    text-align:center;
+    padding:30px;
+}
+
+header h1{
+    font-size:50px;
+}
+
+.seccion{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:30px;
+}
+
+.verde{
+    background:#8bd48f;
+}
+
+.verde2{
+    background:#6cc46e;
+}
+
+.texto{
+    width:60%;
+}
+
+.texto h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.texto p{
+    font-size:16px;
+}
+
+.imagen{
+    width:30%;
+}
+
+.imagen img{
+    width:300px;
+    height: 300px;
+}
+
+.bungee-regular {
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+
+  }
+  .lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.contenedor{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.portada{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.lado{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.billetes{
+    width: 200px;
+}
+
+.monedas{
+    width: 180px;
+}
